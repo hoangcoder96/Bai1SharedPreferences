@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bai1SharedPreferences</string>
+    <string name="save_data">Save Data</string>
+    <string name="read_data">Read Data</string>
+    <string name="remove_all">Remove All</string>
+    <string name="remove_by_key">Remove By Key</string>
+</resources>
